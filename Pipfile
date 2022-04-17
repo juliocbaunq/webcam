@@ -13,4 +13,4 @@ pipreqs = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.10.1"
+python_version = "3.7"
