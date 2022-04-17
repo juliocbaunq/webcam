@@ -8,8 +8,9 @@ flask = "*"
 opencv-contrib-python = "*"
 opencv-python = "*"
 gunicorn = "*"
+pipreqs = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.10.1"
